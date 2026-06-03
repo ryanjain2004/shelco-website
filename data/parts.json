@@ -1,0 +1,1880 @@
+{
+    "Chain Parts": [
+        {
+            "item_code": [
+                "S-56",
+                "S-57"
+            ],
+            "name": "Bicycle Chain",
+            "description": "S-56: CHAIN 1/2\" X 3/32\" (MTB OR RACER) | S-57: CHAIN 1/2\" X 1/8\" (REGULAR)",
+            "specifications": {
+                "sizes": "106, 108, 110, 112, 114, 116 LINKS",
+                "finish": "AVAILABLE IN BLACK, NP AND BCP FINISH"
+            },
+            "image_path": "/parts/chain-parts/s56.png",
+            "visual_notes": "Shows two precision parallel-link chains. S-56 (narrower, multi-speed) and S-57 (wider, single-speed), both in black finish."
+        },
+        {
+            "item_code": [
+                "S-50"
+            ],
+            "name": "Chain Connecting Links",
+            "description": "CHAIN CONNECTING LINKS",
+            "specifications": {
+                "compatibility": "FOR 1/2\" X 3/32\" OR 1/2\" X 1/8\" CHAINS"
+            },
+            "image_path": "/parts/chain-parts/s50.png",
+            "visual_notes": "Small black master link / connecting link. Includes open and closed link variants."
+        },
+        {
+            "item_code": [
+                "S-55"
+            ],
+            "name": "Chain Roll",
+            "description": "CHAIN ROLLS IN METERS",
+            "specifications": {
+                "length": "AS PER ORDER"
+            },
+            "image_path": "/parts/chain-parts/s55.png",
+            "visual_notes": "Heavy-duty bulk spool of black chain with a four-armed cross-brace structure on a wire stand."
+        },
+        {
+            "item_code": [
+                "S-64"
+            ],
+            "name": "Shelco Cut Chain Wheel",
+            "description": "SHELCO CUT CHAIN WHEEL",
+            "specifications": {
+                "sizes": "48T",
+                "crank_length": "7\" ROUND CRANK"
+            },
+            "image_path": "/parts/chain-parts/s64.png",
+            "visual_notes": "Classic single-speed crankset with a bright chrome 48T chainring with decorative cut windows and a polished 7\" round chrome crank arm."
+        },
+        {
+            "item_code": [
+                "S-79"
+            ],
+            "name": "Triple Chain Wheel with Black Guard",
+            "description": "TRIPLE CHAIN WHEEL WITH BLACK GUARD AND GREY PLASTIC COATED CRANK",
+            "specifications": {
+                "sizes": "28T-38T-48T"
+            },
+            "image_path": "/parts/chain-parts/s79.png",
+            "visual_notes": "Modern multi-speed crankset with three chainrings (28/38/48T), integrated black plastic bash guard and grey plastic-coated crank arm."
+        },
+        {
+            "item_code": [
+                "S-4"
+            ],
+            "name": "Single Speed Freewheel",
+            "description": "SILKY FINISH - 18 TEETH",
+            "specifications": {
+                "teeth": "18T",
+                "finish": "SILKY (POLISHED CHROME)"
+            },
+            "image_path": "/parts/chain-parts/s4.png",
+            "visual_notes": "Single-speed freewheel cog, 18 teeth, smooth polished chrome silky finish. Features engraved SHELCO and TO UNSCREW text with directional arrow."
+        },
+        {
+            "item_code": [
+                "S-49"
+            ],
+            "name": "Cotter Pin Set",
+            "description": "COTTER PIN SHORT CUT AND LONG CUT",
+            "specifications": {
+                "nut_types": "AVAILABLE WITH NYLOCK, DOM AND FLANGE NUT"
+            },
+            "image_path": "/parts/chain-parts/s49.png",
+            "visual_notes": "Hardware kit with four silver cotter pins in short and long cut varieties, plus silver washer/nut. Used for traditional crank arm attachment."
+        },
+        {
+            "item_code": [
+                "S-53",
+                "S-54"
+            ],
+            "name": "Multispeed Freewheel Opener",
+            "description": "MULTISPEED FREEWHEEL OPENER",
+            "specifications": null,
+            "image_path": "/parts/chain-parts/s53.png",
+            "visual_notes": "Two specialized socket removal tools. S-53: gold-colored socket with internal splines. S-54: standard silver-colored socket with internal splines."
+        },
+        {
+            "item_code": [
+                "S-51"
+            ],
+            "name": "Chain Adjuster Open End",
+            "description": "CHAIN ADJUSTER OPEN END",
+            "specifications": null,
+            "image_path": "/parts/chain-parts/s51.png",
+            "visual_notes": "Pair of silver zinc-plated chain adjusters for BMX or single-speed bikes with horizontal dropouts. Features a hooked open tensioning bolt end."
+        },
+        {
+            "item_code": [
+                "S-52"
+            ],
+            "name": "Chain Adjuster Close End",
+            "description": "CHAIN ADJUSTER CLOSE END",
+            "specifications": null,
+            "image_path": "/parts/chain-parts/s52.png",
+            "visual_notes": "Pair of silver chain adjusters with a solid circular closed end eyelet on the tensioning bolt, as opposed to the hooked end on S-51."
+        },
+        {
+            "item_code": [
+                "S-33"
+            ],
+            "name": "6 Speed Freewheel Cluster",
+            "description": "6 SPEED - 14-28T BROWN",
+            "specifications": {
+                "speeds": "6",
+                "gear_range": "14-28T",
+                "finish": "BROWN (BRONZE CHEMICAL)"
+            },
+            "image_path": "/parts/chain-parts/s33.png",
+            "visual_notes": "Complete multi-speed freewheel cluster with six cogs (14-28T range). Distinctive deep semi-gloss brown/bronze chemical finish. Shown from 3/4 angle."
+        }
+    ],
+    "Single Speed Chainwheels": [
+        {
+            "item_code": [
+                "S-60"
+            ],
+            "name": "Japan Cut Chainwheel",
+            "description": "JAPAN CUT",
+            "specifications": {
+                "wheel_sizes": "40T, 44T, 46T, 48T, 52T, 60T",
+                "crank_sizes": "5\", 5.5\", 6\", 6.5\", 6.75\", 7\" (C TO C)"
+            },
+            "image_path": "/parts/single-speed-chainwheel/s60.png"
+        },
+        {
+            "item_code": [
+                "S-61"
+            ],
+            "name": "Italian Cut Chainwheel",
+            "description": "ITALIAN CUT",
+            "specifications": {
+                "wheel_sizes": "46T, 48T",
+                "crank_sizes": "6.5\", 6.75\", 7\"",
+                "wheel_thickness": "1/8, 3/32"
+            },
+            "image_path": "/parts/single-speed-chainwheel/s61.png"
+        },
+        {
+            "item_code": [
+                "S-62"
+            ],
+            "name": "Bird Cut Chainwheel",
+            "description": "BIRD CUT",
+            "specifications": {
+                "wheel_sizes": "44T, 46T, 48T",
+                "crank_sizes": "6.5\", 6.75\", 7\""
+            },
+            "image_path": "/parts/single-speed-chainwheel/s62.png"
+        },
+        {
+            "item_code": [
+                "S-63"
+            ],
+            "name": "Phoenix Cut Chainwheel",
+            "description": "PHOENIX CUT",
+            "specifications": {
+                "wheel_sizes": "44T, 46T, 48T",
+                "crank_sizes": "6.5\", 6.75\", 7\""
+            },
+            "image_path": "/parts/single-speed-chainwheel/s63.png"
+        },
+        {
+            "item_code": [
+                "S-64"
+            ],
+            "name": "Shelco Cut Chainwheel",
+            "description": "SHELCO CUT",
+            "specifications": {
+                "wheel_sizes": "48T",
+                "crank_sizes": "7\" ROUND CRANK"
+            },
+            "image_path": "/parts/single-speed-chainwheel/s64.png"
+        },
+        {
+            "item_code": [
+                "S-65"
+            ],
+            "name": "Shelco Cut Chainwheel (Multi-size)",
+            "description": "SHELCO CUT",
+            "specifications": {
+                "wheel_sizes": "44T, 46T, 48T",
+                "crank_sizes": "6.5\", 6.75\", 7\""
+            },
+            "image_path": "/parts/single-speed-chainwheel/s65.png"
+        },
+        {
+            "item_code": [
+                "S-66"
+            ],
+            "name": "Japan Cut Chainwheel (Black)",
+            "description": "JAPAN CUT (Black)",
+            "specifications": {
+                "wheel_sizes": "28T, 32T, 36T, 40T, 44T, 46T, 48T, 52T, 56T, 60T",
+                "crank_sizes": "3.5\" X 0.7\" (C TO C) WITH THREE HOLES"
+            },
+            "image_path": "/parts/single-speed-chainwheel/s66.png"
+        },
+        {
+            "item_code": [
+                "S-67"
+            ],
+            "name": "Children Bicycle Chain Wheel",
+            "description": "CHAIN WHEEL FOR CHILDREN BICYCLE",
+            "specifications": {
+                "wheel_sizes": "28T, 32T, 36T",
+                "crank_sizes": "4\", 4.5\", 5\", 5.5\""
+            },
+            "image_path": "/parts/single-speed-chainwheel/s67.png"
+        },
+        {
+            "item_code": [
+                "S-68"
+            ],
+            "name": "B.B. Fitting Set",
+            "description": "B.B. FITTING S/O 9PCS",
+            "specifications": {
+                "crank_lengths": "4\", 4.5\", 5\", 6\", 6.5\"",
+                "compatibility": "SINGLE SPEED SUITABLE FOR ONE PC CRANK 36T, 40T, 44T"
+            },
+            "image_path": "/parts/single-speed-chainwheel/s68.png"
+        }
+    ],
+    "Multi Speed Chainwheels": [
+        {
+            "item_code": [
+                "S-76"
+            ],
+            "name": "Single Speed Chainwheel with Plastic Chain Guard",
+            "description": "SINGLE SPEED CHAINWHEEL WITH PLASTIC CHAIN GUARD",
+            "specifications": null,
+            "image_path": "/parts/multi-speed-chainwheel/s76.png",
+            "visual_notes": "All-black component. The main chainring is covered by a matte black plastic disc guard. The crank arm is a matching deep black."
+        },
+        {
+            "item_code": [
+                "S-77"
+            ],
+            "name": "Double Speed Chainwheel with Steel Chain Guard (Cottered)",
+            "description": "DOUBLE SPEED CHAINWHEEL WITH STEEL CHAIN GUARD (COTTERED)",
+            "specifications": {
+                "sizes": "40T-48T, 42T-52T"
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s77.png",
+            "visual_notes": "Traditional chrome double crankset with decorative cutouts and a chrome steel plate chain guard. Bright polished chrome crank arm, cottered bottom bracket design."
+        },
+        {
+            "item_code": [
+                "S-78"
+            ],
+            "name": "Triple Speed Chainwheel with Steel Chain Guard (Cottered)",
+            "description": "TRIPLE SPEED CHAINWHEEL WITH STEEL CHAIN GUARD (COTTERED)",
+            "specifications": {
+                "sizes": "28T-38T-48T"
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s78.png",
+            "visual_notes": "Triple crankset with three bright chrome chainrings and a chrome steel plate chain guard. Bright polished chrome crank arm, cottered bottom bracket design."
+        },
+        {
+            "item_code": [
+                "S-79"
+            ],
+            "name": "Triple Speed Chainwheel Plastic Coated Spider Crank with Plastic Chain Guard",
+            "description": "TRIPLE SPEED CHAINWHEEL PLASTIC COATED SPIDER CRANK WITH PLASTIC CHAIN GUARD",
+            "specifications": {
+                "sizes": "28T-38T-48T, 24T-34T-42T"
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s79.png",
+            "visual_notes": "Triple crankset with matte black plastic disc chain guard. Silver/light grey plastic-coated crank arm, cotterless (square taper) mounting. Inner rings are silver steel."
+        },
+        {
+            "item_code": [
+                "S-80"
+            ],
+            "name": "Triple Speed Chainwheel with Steel Chain Guard (Cotterless)",
+            "description": "TRIPLE SPEED CHAINWHEEL WITH STEEL CHAIN GUARD (COTTERLESS)",
+            "specifications": {
+                "sizes": "28T-38T-48T"
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s80.png",
+            "visual_notes": "Triple crankset with highly polished chrome steel plate chain guard. Bright polished chrome crank arm, cotterless (square taper) mounting. Silver steel rings."
+        },
+        {
+            "item_code": [
+                "S-81"
+            ],
+            "name": "Triple Chainwheel with Plastic Chain Guard (Cotterless)",
+            "description": "TRIPLE CHAINWHEEL WITH PLASTIC CHAIN GUARD (COTTERLESS)",
+            "specifications": {
+                "sizes": "28T-38T-48T"
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s81.png",
+            "visual_notes": "Entirely deep black triple crankset. Matte black plastic disc chain guard on outermost gear. Solid deep black crank arm, cotterless mounting. Inner rings also black steel."
+        },
+        {
+            "item_code": [
+                "S-82"
+            ],
+            "name": "Triple Speed Chainwheel All Black with PVC Crank and Chain Guard",
+            "description": "TRIPLE SPEED CHAINWHEEL ALL BLACK WITH PVC CRANK AND CHAIN GUARD",
+            "specifications": {
+                "sizes": "24T-34T-42T, 28T-38T-48T"
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s82.png",
+            "visual_notes": "Completely deep matte black triple crankset with a solid matte black plastic disc chain guard. PVC/plastic crank arm in matching deep matte black. All rings are black steel."
+        },
+        {
+            "item_code": [
+                "S-83"
+            ],
+            "name": "Triple Speed Chainwheel with Silver Grey Powder Coated Crank",
+            "description": "TRIPLE SPEED CHAINWHEEL WITH SILVER GREY POWDER COATED CRANK",
+            "specifications": {
+                "sizes": "24T-34T-42T, 28T-38T-48T"
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s83.png",
+            "visual_notes": "Triple crankset with no chain guard. Three visible black steel chainrings. Defining feature is the silver-grey powder-coated crank arm. Cotterless (square taper) mounting."
+        },
+        {
+            "item_code": [
+                "S-84"
+            ],
+            "name": "Assorted Crank Arms",
+            "description": "ASSORTED CRANK ARMS",
+            "specifications": {
+                "variants": {
+                    "A": "Cottered Crank CP - Bright chrome, traditional cotter-pin mounting hole",
+                    "B": "Cotterless Crank Black Powder Coated - Deep matte black, square taper mounting",
+                    "C": "Cotterless Crank PVC Grey Plate Type - Light grey plastic-coated, cotterless mounting",
+                    "D": "Silver Grey Powder Coated - Silver-grey finish, cotterless mounting"
+                }
+            },
+            "image_path": "/parts/multi-speed-chainwheel/s84.png",
+            "visual_notes": "Four distinct replacement crank arms laid out horizontally: chrome cottered, black powder coated, grey PVC, and silver-grey powder coated."
+        }
+    ],
+    "Hubs": [
+        {
+            "item_code": [
+                "S-90"
+            ],
+            "name": "Philips Hub Set",
+            "description": "PHILIPS STYLE FRONT & REAR HUB SET",
+            "specifications": {
+                "finish": "Matte Black",
+                "configuration": "2-Piece Set (Front & Rear)",
+                "front": "Thick barrel, axle 3/8\" X 5.5\", 36 Spoke Holes",
+                "rear": "Thick barrel, axle 3/8\" X 6.5\", 36 Spoke Holes. Thread 1.370 X 24 TPI BSCY",
+                "spoke_holes_available": "16, 20, 28, 32, 36, 40H X 14G"
+            },
+            "image_path": "/parts/hubs/s90.png",
+            "visual_notes": "Traditional robust hub set with solid matte black barrel and bright silver axle ends. Standard 14G large flanges."
+        },
+        {
+            "item_code": [
+                "S-91"
+            ],
+            "name": "Raleigh Hub Set",
+            "description": "RALEIGH STYLE FRONT & REAR HUB SET",
+            "specifications": {
+                "finish": "Full Polished Chrome",
+                "configuration": "2-Piece Set (Front & Rear)",
+                "front": "Thin barrel, Hub Axle 5/16\" X 5.5\" or 6\"",
+                "rear": "Thin barrel, Hub Axle 3/8\" X 6.5\", 36 Spoke Holes. 1.370 X 24 TPI BSCY or 34.7 X 1mm pitch",
+                "spoke_holes_available": "16, 20, 28, 32, 36, 40H X 14G. Special order 10G and 12G"
+            },
+            "image_path": "/parts/hubs/s91.png",
+            "visual_notes": "Elegant minimalist hub set with continuous thin polished chrome barrel and matching chrome bolt-on axles. Small flanges."
+        },
+        {
+            "item_code": [
+                "S-92"
+            ],
+            "name": "Oval Hub Set",
+            "description": "OVAL STYLE FRONT & REAR HUB SET",
+            "specifications": {
+                "finish": "Brilliant Polished Chrome (BCP)",
+                "configuration": "2-Piece Set (Front & Rear)",
+                "front": "Open ends, BCP, Hub Axle 3/8\" X 5.5\"",
+                "rear": "Hub Axle 3/8\" X 6.5\"",
+                "spoke_holes": "32 / 36 / 40H X 14G (10 Gauge to order)",
+                "threading": "Both side thread to order"
+            },
+            "image_path": "/parts/hubs/s92.png",
+            "visual_notes": "Defined by smooth oval/barrel-shaped central body. Large circular flanges."
+        },
+        {
+            "item_code": [
+                "S-93"
+            ],
+            "name": "Under Cut Hub Set",
+            "description": "UNDER CUT STYLE FRONT & REAR HUB SET",
+            "specifications": {
+                "finish": "Brilliant Polished Chrome (BCP)",
+                "configuration": "2-Piece Set (Front & Rear)",
+                "front": "Open ends, BCP Hub Axle 3/8\" X 5.5\"",
+                "rear_mtb": "Hub Axle 3/8\" X 7\"",
+                "spoke_holes": "32 / 36H X 10G / 14G"
+            },
+            "image_path": "/parts/hubs/s93.png",
+            "visual_notes": "Heavy-duty MTB style hub with larger central barrel that steps down in diameter at the flanges. Large circular flanges."
+        },
+        {
+            "item_code": [
+                "S-94"
+            ],
+            "name": "Rickshaw Hub",
+            "description": "HUB FOR RICKSHAW",
+            "specifications": {
+                "finish": "Brilliant Polished Chrome (BCP)",
+                "spoke_holes": "64H X 12G / 14G",
+                "axle": "Heavy-duty bolt-on"
+            },
+            "image_path": "/parts/hubs/s94.png",
+            "visual_notes": "Extreme duty, high-spoke count hub with massive wide central barrel. Unique decorative rectangular speed-holes cut into large flanges. Heavy-duty axle with large cone nuts."
+        },
+        {
+            "item_code": [
+                "S-95"
+            ],
+            "name": "MTB Quick Release Oval Hub Set (Golden)",
+            "description": "MTB QUICK RELEASE OVAL HUB SET",
+            "specifications": {
+                "finish": "Golden/Brass (BCP with gold chemical treatment)",
+                "configuration": "2-Piece Set (Front & Rear) with Quick Release",
+                "front": "3/8\" X 102/106/108mm, Across Nut 96/98/100",
+                "rear": "3/8\" X 136, Thread 34.8 X 24 TPI, Across Nut 96/98/100",
+                "axle_type": "5mm Quick Release skewer (Silver skewer, Black handle)"
+            },
+            "image_path": "/parts/hubs/s95.png",
+            "visual_notes": "Performance MTB set with continuous simple oval central barrel in a deep reflective golden finish. Includes silver and black quick-release skewers. Simple clean flanges."
+        },
+        {
+            "item_code": [
+                "S-96"
+            ],
+            "name": "MTB Quick Release Oval Hub Set (Chrome)",
+            "description": "MTB QUICK RELEASE OVAL HUB SET",
+            "specifications": {
+                "finish": "Brilliant Polished Chrome (BCP)",
+                "configuration": "2-Piece Set (Front & Rear) with Quick Release",
+                "front": "3/8\" X 120/106/108mm, Across Nut 96/98/100",
+                "rear": "3/8\" X 136, Thread 34.8 X 24 TPI, Across Nut 96/98/100",
+                "axle_type": "5mm Quick Release skewer (Silver skewer, Black handle)"
+            },
+            "image_path": "/parts/hubs/s96.png",
+            "visual_notes": "Identical structure to S-95 (performance MTB, continuous oval body) but with flawless deep polished chrome finish. Includes silver and black quick-release skewers."
+        },
+        {
+            "item_code": [
+                "S-97"
+            ],
+            "name": "Hub Step / Axle Peg Set",
+            "description": "HUB STEP WITH HEXAGON BOTTOM & HUB STEP WITH COLOURED LINES (ALSO AVAILABLE IN ALUMINIUM)",
+            "specifications": {
+                "finish": "BCP (also available in Golden/Aluminium)",
+                "configuration": "Pair of Axle Extenders/Pegs",
+                "left_step": "Full knurling, smooth rounded bottom with internal hexagon interface",
+                "right_step": "Reduced/partial knurling at top, smooth barrel with horizontal cut lines (coloured red/blue/gold)"
+            },
+            "image_path": "/parts/hubs/s97.png",
+            "visual_notes": "Heavy-duty steps with varied surfaces for grip and style. Polished chrome (BCP) with subtle colored details on the right step."
+        }
+    ],
+    "Hub Axles & Bearings": [
+        {
+            "item_code": [
+                "S-100"
+            ],
+            "name": "Raleigh Type Hub Axle Set",
+            "description": "RALEIGH TYPE FRONT AND REAR",
+            "specifications": {
+                "finish": "Available in Black, NP, or ZP",
+                "front_sizes": "5/16\" X 5.5\" / 6\"",
+                "rear_sizes": "3/8\" X 6.5\" / 7\" / 7.5\""
+            },
+            "image_path": "/parts/hub-axles/s100.png",
+            "visual_notes": "Standard threaded axle pair with cones, nuts, and washers. Dark grey/black finish."
+        },
+        {
+            "item_code": [
+                "S-101"
+            ],
+            "name": "A Model Hub Axle Set",
+            "description": "A MODEL FRONT & REAR",
+            "specifications": {
+                "finish": "Available in Black, NP, or ZP",
+                "sizes": "Standard Raleigh type sizes"
+            },
+            "image_path": "/parts/hub-axles/s101.png",
+            "visual_notes": "Standard threaded axle pair in silver-toned (NP or ZP) finish, complete with standard nuts and cones."
+        },
+        {
+            "item_code": [
+                "S-102"
+            ],
+            "name": "Raleigh Type Old Model Axle",
+            "description": "RALEIGH TYPE OLD MODEL",
+            "specifications": {
+                "finish": "Polished (CP or NP)",
+                "configuration": "Single unit"
+            },
+            "image_path": "/parts/hub-axles/s102.png",
+            "visual_notes": "Single threaded axle with highly polished finish on the axle, cones, and standard hexagon nuts."
+        },
+        {
+            "item_code": [
+                "S-103"
+            ],
+            "name": "Feather Type Axle with Dust Cap",
+            "description": "FEATHER TYPE WITH DUST CAP, FRONT & REAR",
+            "specifications": null,
+            "image_path": "/parts/hub-axles/s103.png",
+            "visual_notes": "Distinguished by black cones and standard nuts with a black dust cap assembly. Front axle features a larger extended black dust cover. Black steel axles."
+        },
+        {
+            "item_code": [
+                "S-104"
+            ],
+            "name": "Multi Speed Hub Axle",
+            "description": "FOR MULTI SPEED",
+            "specifications": null,
+            "image_path": "/parts/hub-axles/s104.png",
+            "visual_notes": "Silver-toned (NP or ZP) axle pair. Rear axle is significantly longer with extended section to accommodate multi-speed freewheel clusters. Silver cones and standard nuts."
+        },
+        {
+            "item_code": [
+                "S-105"
+            ],
+            "name": "Cart Hub Axle",
+            "description": "FOR CARTS",
+            "specifications": null,
+            "image_path": "/parts/hub-axles/s105.png",
+            "visual_notes": "Heavy-duty single large-diameter black-finished axle assembly with large-diameter black cones/cups and oversized silver-toned hexagon nuts and check nuts."
+        },
+        {
+            "item_code": [
+                "S-106"
+            ],
+            "name": "Quick Release Hub Axle Set",
+            "description": "QUICK RELEASE WITH HUB AXLE, FRONT & REAR",
+            "specifications": null,
+            "image_path": "/parts/hub-axles/s106.png",
+            "visual_notes": "Full hub axle replacement set integrated with quick-release skewers. Black hollow-core axles with matching black internal cones. Black QR handles."
+        },
+        {
+            "item_code": [
+                "S-107"
+            ],
+            "name": "Quick Release Skewer Set",
+            "description": "QUICK RELEASE FOR HUB, FRONT & REAR",
+            "specifications": null,
+            "image_path": "/parts/hub-axles/s107.png",
+            "visual_notes": "Pair of traditional 5mm quick-release skewers with thin silver-toned shafts, silver acorn nuts and springs at both ends, and distinct black handles."
+        },
+        {
+            "item_code": [
+                "S-108"
+            ],
+            "name": "Hub Cup Rear",
+            "description": "HUB CUP REAR",
+            "specifications": null,
+            "image_path": "/parts/hub-axles/s108.png",
+            "visual_notes": "Large-diameter polished metallic bearing cup with distinct copper/brass tone. Designed as outer bearing race for rear hub with smooth ground interior bearing track."
+        },
+        {
+            "item_code": [
+                "S-109"
+            ],
+            "name": "Hub Cup Front 5/16\"",
+            "description": "HUB CUP FRONT 5/16\"",
+            "specifications": {
+                "axle_size": "5/16\""
+            },
+            "image_path": "/parts/hub-axles/s109.png",
+            "visual_notes": "Identical structure to S-108 but smaller diameter for 5/16\" front hub axles. Same copper/brass tone polished finish."
+        },
+        {
+            "item_code": [
+                "S-110"
+            ],
+            "name": "Hub Cone Front 5/16\"",
+            "description": "HUB CONE FRONT 5/16\"",
+            "specifications": {
+                "axle_size": "5/16\""
+            },
+            "image_path": "/parts/hub-axles/s110.png",
+            "visual_notes": "Small silver-toned threaded bearing cone with hexagonal section for adjustment and precision-ground curved bearing race, sized for 5/16\" front axle."
+        },
+        {
+            "item_code": [
+                "S-111"
+            ],
+            "name": "Hub Cone Rear",
+            "description": "HUB CONE REAR",
+            "specifications": {
+                "axle_size": "3/8\""
+            },
+            "image_path": "/parts/hub-axles/s111.png",
+            "visual_notes": "Identical to S-110 but sized for larger 3/8\" rear axle with larger diameter and internal thread. Silver-toned metallic finish."
+        }
+    ],
+    "Bottom Bracket Axles & Cups": [
+        {
+            "item_code": [
+                "S-115-A"
+            ],
+            "name": "B.B. Axle - Phillips Type",
+            "description": "B.B. AXLE PHILLIPS TYPE (COTTERED TYPE)",
+            "specifications": {
+                "type": "Cottered",
+                "design": "Phillips Type"
+            },
+            "image_path": "/parts/b.b-axles-cups/s115a.png",
+            "visual_notes": "Polished silver/chrome metallic finish with raised shoulders and a cotter pin notch near the right end."
+        },
+        {
+            "item_code": [
+                "S-115-B"
+            ],
+            "name": "B.B. Axle - Raleigh Type",
+            "description": "B.B. AXLE RALEIGH TYPE (COTTERED TYPE)",
+            "specifications": {
+                "type": "Cottered",
+                "design": "Raleigh Type"
+            },
+            "image_path": "/parts/b.b-axles-cups/s115b.png",
+            "visual_notes": "Two-toned metallic axle with a blackened/dark central section between the bearing shoulders and notched ends for cotter pins."
+        },
+        {
+            "item_code": [
+                "S-115-C"
+            ],
+            "name": "B.B. Axle - French Type",
+            "description": "B.B. AXLE FRENCH TYPE (COTTERED TYPE)",
+            "specifications": {
+                "type": "Cottered",
+                "design": "French Type"
+            },
+            "image_path": "/parts/b.b-axles-cups/s115c.png",
+            "visual_notes": "Entirely matte black/dark finished cottered axle with standard notches at both ends."
+        },
+        {
+            "item_code": [
+                "S-116"
+            ],
+            "name": "MTB Cotterless Axle",
+            "description": "MTB COTTERLESS AXLE WITH WASHERS & BOLTS",
+            "specifications": {
+                "type": "Cotterless (Square Taper)",
+                "finish_options": "Black or Z/P (Zinc Plated)"
+            },
+            "image_path": "/parts/b.b-axles-cups/s116.png",
+            "visual_notes": "Matte black square-tapered axle complete with threaded bolts and washers pre-installed on both ends."
+        },
+        {
+            "item_code": [
+                "S-117"
+            ],
+            "name": "Thomson Type B.B. Axle & Cup Set",
+            "description": "THOMSON TYPE B.B. AXLE & CUP SET",
+            "specifications": {
+                "type": "Thomson Type Set",
+                "components": "Includes axle, integrated cups, and threaded hardware"
+            },
+            "image_path": "/parts/b.b-axles-cups/s117.png",
+            "visual_notes": "Complete bottom bracket assembly showing the central axle fitted with pressed flared metal cups, threaded cones, and locknuts."
+        },
+        {
+            "item_code": [
+                "S-118"
+            ],
+            "name": "B.B. Cups - Philips Type",
+            "description": "B.B. CUPS PHILIPS TYPE",
+            "specifications": {
+                "threads": "34.8 MM x 24 TPI BSCY RH & LH THREADS",
+                "alternative_sizes": "Also available in 35 MM & 35.5 MM diameter"
+            },
+            "image_path": "/parts/b.b-axles-cups/s118.png",
+            "visual_notes": "Silver-toned metallic threaded cup alongside a thin, notched outer lockring."
+        },
+        {
+            "item_code": [
+                "S-119"
+            ],
+            "name": "B.B. Cups - Raleigh Type",
+            "description": "B.B. CUPS RALEIGH TYPE",
+            "specifications": {
+                "threads": "34.8 MM x 26 TPI / 24 TPI BSCY RH & LH THREADS"
+            },
+            "image_path": "/parts/b.b-axles-cups/s119.png",
+            "visual_notes": "Metallic bottom bracket cup accompanied by a notched lockring and a thick, black rubberized or plastic seal ring."
+        },
+        {
+            "item_code": [
+                "S-120"
+            ],
+            "name": "B.B. Cups - French Type",
+            "description": "B.B. CUPS FRENCH TYPE",
+            "specifications": {
+                "threads": "35 MM x 1 MM PITCH ISO - METRIC RH & RH THREADS"
+            },
+            "image_path": "/parts/b.b-axles-cups/s120.png",
+            "visual_notes": "Metallic stepped cup, a minimal notched lockring, and a thick black cylindrical spacing ring."
+        },
+        {
+            "item_code": [
+                "S-121"
+            ],
+            "name": "MTB for Cotterless Axle Cups",
+            "description": "MTB FOR COTTERLESS AXLE CUPS",
+            "specifications": {
+                "finish": "Black or Z/P (Zinc Plated) with washers & bolts"
+            },
+            "image_path": "/parts/b.b-axles-cups/s121.png",
+            "visual_notes": "Hexagonal flanged metallic cup, a thin notched lockring, and a flat silver washers plate."
+        },
+        {
+            "item_code": [
+                "S-122"
+            ],
+            "name": "Ball Retainer for B.B. Sets & Hubs",
+            "description": "BALL RETAINER FOR B.B. SETS & HUBS IN 7, 8, 9 BALLS",
+            "specifications": {
+                "ball_count_options": [
+                    "7 Balls",
+                    [
+                        "8 Balls"
+                    ],
+                    [
+                        "9 Balls"
+                    ]
+                ]
+            },
+            "image_path": "/parts/b.b-axles-cups/s122.png",
+            "visual_notes": "Two circular caged ball bearing retainers displaying evenly spaced chrome steel balls."
+        }
+    ],
+    "Front Forks": [
+        {
+            "item_code": [
+                "S-125"
+            ],
+            "name": "Front Fork - SLR Type",
+            "description": "SLR TYPE WITH BCP THIMBLES",
+            "specifications": {
+                "wheel_size": [
+                    "26\"",
+                    "28\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s125.png",
+            "visual_notes": "Bright red bicycle fork with a metallic steerer tube and curved, slender blades featuring chrome/BCP thimbles at the crown."
+        },
+        {
+            "item_code": [
+                "S-126"
+            ],
+            "name": "Front Fork - Raleigh Type",
+            "description": "RALEIGH TYPE WITH BCP THIMBLES",
+            "specifications": {
+                "wheel_size": [
+                    "26\"",
+                    "28\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s126.png",
+            "visual_notes": "Black bicycle fork featuring a curved blade design and distinctive bright BCP/chrome thimbles at the fork crown."
+        },
+        {
+            "item_code": [
+                "S-127"
+            ],
+            "name": "Front Fork - Philips Type",
+            "description": "PHILIPS TYPE FOR ROADSTAR BIKE",
+            "specifications": {
+                "wheel_size": [
+                    "28\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s127.png",
+            "visual_notes": "Elongated black fork designed for traditional roadster bicycles, featuring a shiny chrome crown cap and curved dropouts."
+        },
+        {
+            "item_code": [
+                "S-128"
+            ],
+            "name": "Front Fork - Double Pipe",
+            "description": "DOUBLE PIPE (ROBIN HOOD)",
+            "specifications": {
+                "wheel_size": [
+                    "28\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s128.png",
+            "visual_notes": "Heavy-duty black fork featuring a classic twin-tube or double-pipe crown structure reminiscent of vintage Robin Hood styles."
+        },
+        {
+            "item_code": [
+                "S-129"
+            ],
+            "name": "Front Fork - French Type",
+            "description": "FRENCH TYPE",
+            "specifications": {
+                "wheel_size": [
+                    "26\"",
+                    "28\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s129.png",
+            "visual_notes": "Bright blue painted bicycle fork with clean, tapered lines and classic curved blades ending in open dropouts."
+        },
+        {
+            "item_code": [
+                "S-130"
+            ],
+            "name": "Front Fork - Robinhood Type",
+            "description": "ROBINHOOD (DOUBLE PIPE)",
+            "specifications": {
+                "wheel_size": [
+                    "28\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s130.png",
+            "visual_notes": "Dark blue variant of the dual-pipe reinforced fork crown structure, built for large 28-inch wheels."
+        },
+        {
+            "item_code": [
+                "S-131"
+            ],
+            "name": "Front Fork - MTB with Pivots",
+            "description": "MTB WITH PIVOTS PRESSED / FORGED ENDS",
+            "specifications": {
+                "wheel_size": [
+                    "24\"",
+                    "26\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s131.png",
+            "visual_notes": "Red mountain bike style fork with integrated brake boss pivots protruding on the inner blades, featuring thick forged dropouts."
+        },
+        {
+            "item_code": [
+                "S-132"
+            ],
+            "name": "Front Fork - MTB 26\"",
+            "description": "MTB 26\" WHEEL SIZE",
+            "specifications": {
+                "wheel_size": [
+                    "26\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s132.png",
+            "visual_notes": "Sleek, dark-painted or black rigid mountain bike fork with contoured oval blades optimized for 26-inch wheels."
+        },
+        {
+            "item_code": [
+                "S-133"
+            ],
+            "name": "Front Fork - BMX",
+            "description": "BMX 16\" AND 20\" WHEEL SIZE",
+            "specifications": {
+                "wheel_size": [
+                    "16\"",
+                    "20\""
+                ]
+            },
+            "image_path": "/parts/front-fork/s133.png",
+            "visual_notes": "Compact, stout pink/magenta BMX fork featuring thick, heavily reinforced multi-hole peg/dropout plates at the blade tips."
+        },
+        {
+            "item_code": [
+                "S-134"
+            ],
+            "name": "Fork Guard",
+            "description": "FORK GUARD",
+            "specifications": {
+                "type": "Wire/Rod Guard"
+            },
+            "image_path": "/parts/fork-guard/s134.png",
+            "visual_notes": "A pair of long, slender, chrome-plated spring steel rods with tightly coiled accent sections near the mounting ends."
+        },
+        {
+            "item_code": [
+                "S-135"
+            ],
+            "name": "Fork Fittings - Raleigh Type",
+            "description": "RALEIGH TYPE SET OF 5 PCS.",
+            "specifications": {
+                "component_count": "5 PCS."
+            },
+            "image_path": "/parts/fork-fittings/s135.png",
+            "visual_notes": "Vertical stack of 5 headset components consisting of a locknut, threaded top race, keyed washers, and bottom races in mixed chrome and dark finishes."
+        },
+        {
+            "item_code": [
+                "S-136"
+            ],
+            "name": "Fork Fittings - BMX Set",
+            "description": "BMX SET OF 5 PCS.",
+            "specifications": {
+                "component_count": "5 PCS."
+            },
+            "image_path": "/parts/fork-fittings/s136.png",
+            "visual_notes": "Stack of 5 robust BMX headset pieces including a thick black spacer ring, notched lock ring, and heavy-set metallic cups."
+        },
+        {
+            "item_code": [
+                "S-137"
+            ],
+            "name": "Fork Fittings - French Type",
+            "description": "FRENCH TYPE SET OF 6 PCS.",
+            "specifications": {
+                "component_count": "6 PCS."
+            },
+            "image_path": "/parts/fork-fittings/s137.png",
+            "visual_notes": "Set of 6 polished silver-toned headset components featuring fine threading and low-profile lockrings."
+        },
+        {
+            "item_code": [
+                "S-138"
+            ],
+            "name": "Fork Fittings - Zebra / Swedish Set",
+            "description": "ZEBRA / SWEDISH SET OF 6 PCS.",
+            "specifications": {
+                "component_count": "6 PCS."
+            },
+            "image_path": "/parts/fork-fittings/s138.png",
+            "visual_notes": "A collection of 6 dark-coated and silver metallic concentric hardware rings including a flared lower cone race."
+        },
+        {
+            "item_code": [
+                "S-139"
+            ],
+            "name": "Fork Fittings - Philip Type",
+            "description": "PHILIP TYPE SET OF 7 PCS.",
+            "specifications": {
+                "component_count": "7 PCS."
+            },
+            "image_path": "/parts/fork-fittings/s139.png",
+            "visual_notes": "Comprehensive 7-piece headset stack displaying varying profiles of threaded rings, flat keyed washers, and bearing race cups."
+        },
+        {
+            "item_code": [
+                "S-140"
+            ],
+            "name": "Fork Fittings - Italian Type",
+            "description": "ITALIAN TYPE SET OF 8 PCS WITH BALL RETAINER.",
+            "specifications": {
+                "component_count": "8 PCS.",
+                "includes_bearings": true
+            },
+            "image_path": "/parts/fork-fittings/s140.png",
+            "visual_notes": "Premium 8-piece kit uniquely showing integrated caged ball bearing retainers nested among the polished cups and threaded lock hardware."
+        }
+    ],
+    "Handlebars": [
+        {
+            "item_code": [
+                "S-145"
+            ],
+            "name": "Handle Bar - NRR Model",
+            "description": "NRR MODEL BCP WITH SIDE PULL BRAKES",
+            "specifications": {
+                "finish": "BCP (Bright Chrome Plated)",
+                "brake_type": "Side Pull Brakes"
+            },
+            "image_path": "/parts/handle-bars/s145.png",
+            "visual_notes": "Traditional upright chrome handlebar with an integrated stem, fitted with black end grips and dual side-pull brake rod levers running parallel to the main bar."
+        },
+        {
+            "item_code": [
+                "S-146"
+            ],
+            "name": "Handle Bar - Raleigh Model",
+            "description": "RALEIGH MODEL BCP CENTRE PULL BRAKES",
+            "specifications": {
+                "finish": "BCP (Bright Chrome Plated)",
+                "brake_type": "Centre Pull Brakes"
+            },
+            "image_path": "/parts/handle-bars/s146.png",
+            "visual_notes": "Chrome-plated tourist-style handlebar with integrated rod linkages configured centrally for traditional center-pull roller brakes."
+        },
+        {
+            "item_code": [
+                "S-147"
+            ],
+            "name": "Handle Bar - Philips Type",
+            "description": "PHILIPS TYPE BCP WITH SIDE PULL BRAKES",
+            "specifications": {
+                "finish": "BCP (Bright Chrome Plated)",
+                "brake_type": "Side Pull Brakes"
+            },
+            "image_path": "/parts/handle-bars/s147.png",
+            "visual_notes": "Classic swept-back bright chrome handlebar with integrated stem assembly and dual side-pull brake rod linkages."
+        },
+        {
+            "item_code": [
+                "S-148"
+            ],
+            "name": "Handle Bar - SLR",
+            "description": "SLR BCP WITH PVC GRIPS & ADJUSTABLE STEM",
+            "specifications": {
+                "finish": "BCP (Bright Chrome Plated)",
+                "grips": "PVC Grips",
+                "stem_type": "Adjustable Stem"
+            },
+            "image_path": "/parts/handle-bars/s148.png",
+            "visual_notes": "Slightly swept-back sports-style chrome handlebar featuring clear or light-toned PVC hand grips and an adjustable clamp-style forward stem."
+        },
+        {
+            "item_code": [
+                "S-149"
+            ],
+            "name": "Handle Bar - MTB Bent Pattern",
+            "description": "MTB BENT PATTERN WITH ADJUSTABLE MTB STEM",
+            "specifications": {
+                "style": "Bent Pattern",
+                "stem_type": "Adjustable MTB Stem"
+            },
+            "image_path": "/parts/handle-bars/s149.png",
+            "visual_notes": "Slightly raised or riser-style chrome mountain bike handlebar complete with textured black rubber grips and a sturdy black adjustable stem."
+        },
+        {
+            "item_code": [
+                "S-150"
+            ],
+            "name": "Handle Bar - Balloon Type",
+            "description": "BALOON TYPE BCP WITH SIDE PULL BRAKES",
+            "specifications": {
+                "finish": "BCP (Bright Chrome Plated)",
+                "brake_type": "Side Pull Brakes"
+            },
+            "image_path": "/parts/handle-bars/s150.png",
+            "visual_notes": "Wide, flat-profile chrome handlebar designed for balloon-tire cruiser bikes, featuring integrated long-reach side-pull brake levers and black hand grips."
+        },
+        {
+            "item_code": [
+                "S-151"
+            ],
+            "name": "Handle Bar - BMX",
+            "description": "BMX BCP WITH CROSS BAR",
+            "specifications": {
+                "finish": "BCP (Bright Chrome Plated)",
+                "features": "Integrated Cross Bar",
+                "grips": "Red Grips"
+            },
+            "image_path": "/parts/handle-bars/s151.png",
+            "visual_notes": "High-rise chrome BMX handlebar with a welded horizontal reinforcement crossbar, fitted with vibrant red ribbed safety grips."
+        },
+        {
+            "item_code": [
+                "S-152"
+            ],
+            "name": "Handle Bar - MTB Straight Pattern",
+            "description": "MTB STRAIGHT PATTERN",
+            "specifications": {
+                "style": "Straight Pattern"
+            },
+            "image_path": "/parts/handle-bars/s152.png",
+            "visual_notes": "Minimalist, flat straight-line black/dark finished handlebar with extended black textured grips and a simple central stem clamp area."
+        },
+        {
+            "item_code": [
+                "S-153"
+            ],
+            "name": "Handle Bar - Reverse Model (Racing)",
+            "description": "REVERSE MODEL (RACING)",
+            "specifications": {
+                "style": "Drop/Reverse Racing Pattern"
+            },
+            "image_path": "/parts/handle-bars/s153.png",
+            "visual_notes": "Classic dropped racing handlebar with deep down-turned hooks, a bright chrome finish, black rubber sleeve grips on the drops, and an integrated quill stem."
+        }
+    ],
+    "Handle Parts & Stems": [
+        {
+            "item_code": [
+                "S-160"
+            ],
+            "name": "Handle Stem - MTB Regular",
+            "description": "HANDLE STAMPS : MTB REGULAR",
+            "specifications": {
+                "type": "MTB Regular"
+            },
+            "image_path": "/parts/handle-parts/s160.png",
+            "visual_notes": "Matte black quill stem with a textured, wedge-cut bottom expander and a standard single-bolt front handlebar clamp."
+        },
+        {
+            "item_code": [
+                "S-161"
+            ],
+            "name": "Handle Stem - MTB with Cable Guide",
+            "description": "HANDLE STAMPS : MTB WITH CABLE GUIDE",
+            "specifications": {
+                "type": "MTB with Cable Guide"
+            },
+            "image_path": "/parts/handle-parts/s161.png",
+            "visual_notes": "Dark finished bicycle quill stem featuring an integrated internal routing hole or guide loop for center-pull brake cables near the bend."
+        },
+        {
+            "item_code": [
+                "S-162"
+            ],
+            "name": "Handle Stem - Zoom with Cable Guide",
+            "description": "HANDLE STAMPS : ZOOM WITH CABLE GUIDE",
+            "specifications": {
+                "type": "Zoom Pattern"
+            },
+            "image_path": "/parts/handle-parts/s162.png",
+            "visual_notes": "Elongated matte black quill stem with a sharp forward extension, equipped with an integrated brake cable routing guide."
+        },
+        {
+            "item_code": [
+                "S-163"
+            ],
+            "name": "Handle Stem - SLR",
+            "description": "HANDLE STAMPS : SLR",
+            "specifications": {
+                "type": "SLR Type"
+            },
+            "image_path": "/parts/handle-parts/s163.png",
+            "visual_notes": "Polished chrome-plated vintage quill stem with a short forward neck and a standard binder bolt."
+        },
+        {
+            "item_code": [
+                "S-164"
+            ],
+            "name": "Handle Stem - Deep Drop Racer Bar",
+            "description": "HANDLE STAMPS : DEEP DROP RACER BAR",
+            "specifications": {
+                "type": "Deep Drop Racer"
+            },
+            "image_path": "/parts/handle-parts/s164.png",
+            "visual_notes": "Bright chrome-plated road racing quill stem with an elongated forward extension and specialized binder clamp for drop bars."
+        },
+        {
+            "item_code": [
+                "S-165"
+            ],
+            "name": "Handle Stem - BMX with Alloy Top",
+            "description": "HANDLE STAMPS : BMX WITH ALLOY TOP",
+            "specifications": {
+                "type": "BMX four-bolt",
+                "material_top": "Alloy"
+            },
+            "image_path": "/parts/handle-parts/s165.png",
+            "visual_notes": "Chrome-plated quill shaft paired with a blocky, 4-bolt red anodized alloy faceplate/top clamp designed for BMX bars."
+        },
+        {
+            "item_code": [
+                "S-166"
+            ],
+            "name": "Expander Bolt - One Piece Hollow BCP",
+            "description": "EXPANDER BOLT : ONE PIECE HOLLOW BCP EXPANDER BOLT",
+            "specifications": {
+                "type": "One Piece Hollow",
+                "finish": "BCP (Bright Chrome Plated)"
+            },
+            "image_path": "/parts/handle-parts/s166.png",
+            "visual_notes": "Long, silver-finished hollow tension bolt with threaded end, used to secure the stem inside the fork steerer."
+        },
+        {
+            "item_code": [
+                "S-167"
+            ],
+            "name": "Expander Bolt - Hexagonal Head with Swaged Cone & Washer",
+            "description": "EXPANDER BOLT : HEXAGONAL HEAD WITH SWAGED CONE & WASHER",
+            "specifications": {
+                "head_type": "Hexagonal Head",
+                "components": "Swaged cone and washer included"
+            },
+            "image_path": "/parts/handle-parts/s167.png",
+            "visual_notes": "Long metallic bolt featuring a standard external hex head on top and a pre-fitted wedge-shaped swaged cone at the bottom."
+        },
+        {
+            "item_code": [
+                "S-168"
+            ],
+            "name": "Expander Bolt - Allen Head with Swaged Cone",
+            "description": "EXPANDER BOLT : ALLEN HEAD WITH SWAGED CONE",
+            "specifications": {
+                "head_type": "Allen Head (Internal Hex)",
+                "components": "Swaged cone included"
+            },
+            "image_path": "/parts/handle-parts/s168.png",
+            "visual_notes": "Sleek expander bolt with a recessed internal hex (Allen) head and an attached mechanical expansion wedge."
+        },
+        {
+            "item_code": [
+                "S-169"
+            ],
+            "name": "Expander Bolt - Hexagonal with Tapered Cone & Washer",
+            "description": "EXPANDER BOLT : HEXAGONAL WITH TAPERED CONE & WASHER",
+            "specifications": {
+                "head_type": "Hexagonal Head",
+                "components": "Tapered cone and washer"
+            },
+            "image_path": "/parts/handle-parts/s169.png",
+            "visual_notes": "Long stem bolt with a hexagonal head, featuring a flat washer and a distinct smooth tapered round expansion cone."
+        },
+        {
+            "item_code": [
+                "S-170"
+            ],
+            "name": "Expander Bolt - Hexagonal",
+            "description": "EXPANDER BOLT : EXPANDER BOLT HEXAGONAL",
+            "specifications": {
+                "head_type": "Hexagonal Head"
+            },
+            "image_path": "/parts/handle-parts/s170.png",
+            "visual_notes": "Standard elongated hex-head stem bolt fitted with a simple black spacer block/bushing along the upper shaft."
+        },
+        {
+            "item_code": [
+                "S-175",
+                "S-176"
+            ],
+            "name": "Reflector Brackets",
+            "description": "LAMP & REFLECTOR BRACKETS : REFLECTOR BRACKETS",
+            "specifications": {
+                "type": "Reflector Bracket"
+            },
+            "image_path": "/parts/lamp-reflection-brackets/s175.png",
+            "visual_notes": "Stamped metallic sheet brackets with circular mounting holes, designed to mount safety reflectors onto the frame or fork."
+        },
+        {
+            "item_code": [
+                "S-177",
+                "S-178",
+                "S-179",
+                "S-180"
+            ],
+            "name": "Lamp Brackets",
+            "description": "LAMP & REFLECTOR BRACKETS : LAMP BRACKETS",
+            "specifications": {
+                "type": "Lamp Bracket"
+            },
+            "image_path": "/parts/lamp-reflection-brackets/s177.png",
+            "visual_notes": "Polished metal brackets featuring patterned cutouts (including shapes like 'S' and 'H') on the upper extension for traditional headlamp mounting."
+        },
+        {
+            "item_code": [
+                "S-185"
+            ],
+            "name": "Handle Grip - Model S-185",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s185.png"
+        },
+        {
+            "item_code": [
+                "S-186"
+            ],
+            "name": "Handle Grip - Model S-186",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s186.png"
+        },
+        {
+            "item_code": [
+                "S-187"
+            ],
+            "name": "Handle Grip - Model S-187",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s187.png"
+        },
+        {
+            "item_code": [
+                "S-188"
+            ],
+            "name": "Handle Grip - Model S-188",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s188.png"
+        },
+        {
+            "item_code": [
+                "S-189"
+            ],
+            "name": "Handle Grip - Model S-189",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s189.png"
+        },
+        {
+            "item_code": [
+                "S-190"
+            ],
+            "name": "Handle Grip - Model S-190",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s190.png"
+        },
+        {
+            "item_code": [
+                "S-191"
+            ],
+            "name": "Handle Grip - Model S-191",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s191.png"
+        },
+        {
+            "item_code": [
+                "S-192"
+            ],
+            "name": "Handle Grip - Model S-192",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s192.png"
+        },
+        {
+            "item_code": [
+                "S-193"
+            ],
+            "name": "Handle Grip - Model S-193",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s193.png"
+        },
+        {
+            "item_code": [
+                "S-194"
+            ],
+            "name": "Handle Grip - Model S-194",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s194.png"
+        },
+        {
+            "item_code": [
+                "S-195"
+            ],
+            "name": "Handle Grip - Model S-195",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s195.png"
+        },
+        {
+            "item_code": [
+                "S-196"
+            ],
+            "name": "Handle Grip - Model S-196",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s196.png"
+        },
+        {
+            "item_code": [
+                "S-197"
+            ],
+            "name": "Handle Grip - Model S-197",
+            "description": "HANDLE GRIP : PP / PVC, SOFT FOAM AND CUSHIONED",
+            "specifications": {
+                "material": "PP / PVC"
+            },
+            "image_path": "/parts/handle-grips/s197.png"
+        },
+        {
+            "item_code": [
+                "S-198"
+            ],
+            "name": "Handle Grip - Model S-198",
+            "description": "HANDLE GRIP : SOFT FOAM CUSHIONED",
+            "specifications": {
+                "material": "Soft Foam"
+            },
+            "image_path": "/parts/handle-grips/s198.png"
+        },
+        {
+            "item_code": [
+                "S-199"
+            ],
+            "name": "Handle Grip - Model S-199",
+            "description": "HANDLE GRIP : SOFT FOAM CUSHIONED",
+            "specifications": {
+                "material": "Soft Foam"
+            },
+            "image_path": "/parts/handle-grips/s199.png"
+        }
+    ],
+    "Brake Sets & Parts": [
+        {
+            "item_code": [
+                "S-205"
+            ],
+            "name": "Caliper Brakes - SLR Type",
+            "description": "CALIPER BRAKES : SLR TYPE - COMPLETE WITH SHEET METAL LEVERS, SIDE PULL, POWDER COATED / BNCP.",
+            "specifications": {
+                "type": "Side Pull Caliper",
+                "levers": "Sheet Metal Levers",
+                "finish_options": [
+                    "Powder Coated",
+                    "BNCP"
+                ],
+                "sizes": {
+                    "A": "63mm APPROX.",
+                    "B": "82mm APPROX.",
+                    "C": "74mm APPROX.",
+                    "D": "70mm APPROX."
+                }
+            },
+            "image_path": "/parts/brake-sets-brake-parts/s205.png",
+            "visual_notes": "A complete brake assembly kit displaying two bright chrome-plated side-pull calipers with brake pads, corresponding sheet metal drop-style brake levers, black outer brake cables, and mounting hardware."
+        },
+        {
+            "item_code": [
+                "S-206"
+            ],
+            "name": "Caliper Brakes - MTB/BMX Type",
+            "description": "CALIPER BRAKES : FOR MTB/BMX BIKES - SIDE PULL, HIGH DENSITY STEEL MADE. SOLID LEVERS, BNCP/POWDER COATED",
+            "specifications": {
+                "type": "Side Pull Caliper",
+                "application": [
+                    "MTB",
+                    "BMX"
+                ],
+                "material": "High Density Steel",
+                "levers": "Solid Levers",
+                "finish_options": [
+                    "BNCP",
+                    "Powder Coated"
+                ],
+                "sizes": {
+                    "A": "73mm APPROX.",
+                    "B": "97mm APPROX.",
+                    "C": "55mm APPROX.",
+                    "D": "71mm APPROX."
+                }
+            },
+            "image_path": "/parts/brake-sets-brake-parts/s206.png",
+            "visual_notes": "A brake kit featuring black-coated heavy-duty steel side-pull caliper arms, sturdy black solid-style hand brake levers, black cable housings, and silver hardware components."
+        },
+        {
+            "item_code": [
+                "S-207"
+            ],
+            "name": "Cantilever Brakes Set",
+            "description": "CANTILEVER BRAKES : COMPLETE SET LOW PROFILE, ADJUSTER VERTICALLY & HORIZONTALLY, RIGID STEEL ARMS. POWDER COATED/BNCP.",
+            "specifications": {
+                "type": "Cantilever",
+                "profile": "Low Profile",
+                "adjustment": "Vertically & Horizontally Adjustable",
+                "arms_material": "Rigid Steel",
+                "finish_options": [
+                    "Powder Coated",
+                    "BNCP"
+                ],
+                "sizes": {
+                    "A": "80-92mm",
+                    "B": "22-28mm"
+                }
+            },
+            "image_path": "/parts/brake-sets-brake-parts/s207.png",
+            "visual_notes": "A breakdown of a complete low-profile cantilever brake system, showing four black rigid brake arms with adjustable post-mount brake pads, black brake levers, straddle cables with carrier links, and pivoting mounting bolts."
+        },
+        {
+            "item_code": [
+                "S-208"
+            ],
+            "name": "Philips Type Brake Set",
+            "description": "PHILIPS TYPE, SIDE PULL",
+            "specifications": {
+                "type": "Side Pull Rod/Linkage Type",
+                "design_pattern": "Philips Type"
+            },
+            "image_path": "/parts/brake-sets-brake-parts/s208.png",
+            "visual_notes": "Traditional rod-operated side-pull brake linkage set featuring long silver chrome-plated pull rods, mounting frame clips, guided horseshoe stirrups with brake blocks, and mechanical lever pivoting connections."
+        },
+        {
+            "item_code": [
+                "S-209"
+            ],
+            "name": "Demi Balloon Brake Set",
+            "description": "DEMI BALLOON, FRENCH MODEL",
+            "specifications": {
+                "type": "Caliper Brake Set",
+                "design_pattern": "French Model Demi Balloon"
+            },
+            "image_path": "/parts/brake-sets-brake-parts/s209.png",
+            "visual_notes": "Polished chrome caliper assembly consisting of standard horseshoe calipers, matching silver metal handle levers, and thin coiled brake cables."
+        },
+        {
+            "item_code": [
+                "S-210"
+            ],
+            "name": "Raleigh Type Roadstar Brake Set",
+            "description": "RALEIGH TYPE SUITABLE FOR ROADSTAR BIKES, CENTRE PULL",
+            "specifications": {
+                "type": "Centre Pull Roller Rod Brake Set",
+                "compatibility": "Roadstar Bicycles",
+                "design_pattern": "Raleigh Type"
+            },
+            "image_path": "/parts/brake-sets-brake-parts/s210.png",
+            "visual_notes": "A comprehensive vintage-style center-pull rod brake mechanism layout, featuring prominent triangular stirrups, extended chrome connection rods, frame mounting clamps, and specialized horizontal rubber pad shoe blocks."
+        }
+    ],
+    "Brake Levers": [
+        {
+            "item_code": [
+                "S-211"
+            ],
+            "name": "Brake Levers Assortment",
+            "description": "BRAKE LEVERS : VARIOUS MODELS FROM A TO M PLASTIC COATED, BCP AND POWDER COATED",
+            "specifications": {
+                "models": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F",
+                    "G",
+                    "H",
+                    "I",
+                    "J",
+                    "K",
+                    "L",
+                    "M"
+                ],
+                "finish_options": [
+                    "Plastic Coated",
+                    "BCP (Bright Chrome Plated)",
+                    "Powder Coated"
+                ]
+            },
+            "image_path": "/parts/brake-levers/s211.png",
+            "visual_notes": "An expansive line-up of thirteen unique bicycle hand brake levers labeled A through M. Models A, B, and C display high-shine chrome (BCP) metal finishes; models D, E, F, H, I, J, K, L, and M feature matte or glossy black coated designs; and model G shows a distinct translucent white or light-yellow plastic composite body."
+        }
+    ],
+    "Brake Shoes": [
+        {
+            "item_code": [
+                "S-212"
+            ],
+            "name": "Brake Shoes Assortment",
+            "description": "BRAKE SHOES : VARIOUS MODELS FROM A TO P",
+            "specifications": {
+                "models": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F",
+                    "G",
+                    "H",
+                    "I",
+                    "J",
+                    "K",
+                    "M",
+                    "N",
+                    "O",
+                    "P"
+                ]
+            },
+            "image_path": "/parts/brake-shoes/s212.png",
+            "visual_notes": "A grid matrix showcasing fifteen varieties of black rubber bicycle brake blocks/shoes with integrated metal mounting posts or threaded studs, labeled letters A through P (omitting L). Shapes vary across short caliper pads, traditional curved blocks, blocky shapes, and elongated smooth/ribbed mountain bike or cruiser style pads."
+        }
+    ],
+    "Single Speed Freewheels": [
+        {
+            "item_code": [
+                "S-1"
+            ],
+            "name": "Single Speed Freewheel - 16T Golden",
+            "description": "16T GOLDEN COLOUR, 1/2\" X 1/8\" HALF STEEL BALL",
+            "specifications": {
+                "teeth": "16T",
+                "chain_size": "1/2\" X 1/8\"",
+                "bearing": "Half Steel Ball",
+                "finish": "Golden Colour"
+            },
+            "image_path": "/parts/single-speed-freewheels/s1.png"
+        },
+        {
+            "item_code": [
+                "S-2"
+            ],
+            "name": "Single Speed Freewheel - Golden Finish",
+            "description": "GOLDEN FINISH",
+            "specifications": {
+                "finish": "Golden"
+            },
+            "image_path": "/parts/single-speed-freewheels/s2.png"
+        },
+        {
+            "item_code": [
+                "S-3"
+            ],
+            "name": "Single Speed Freewheel - 18T Golden Full Ball",
+            "description": "18T GOLDEN FINISH FULL BALL",
+            "specifications": {
+                "teeth": "18T",
+                "bearing": "Full Ball",
+                "finish": "Golden"
+            },
+            "image_path": "/parts/single-speed-freewheels/s3.png"
+        },
+        {
+            "item_code": [
+                "S-4"
+            ],
+            "name": "Single Speed Freewheel - Silky Finish",
+            "description": "SILKY FINISH",
+            "specifications": {
+                "finish": "Silky (Polished Chrome)"
+            },
+            "image_path": "/parts/single-speed-freewheels/s4.png"
+        },
+        {
+            "item_code": [
+                "S-5"
+            ],
+            "name": "Single Speed Freewheel - 18T Black Teeth BCP Body",
+            "description": "18T BLACK COLOUR TEETH, BODY BCP, 1/2\" X 1/8\" HALF STEEL BALL",
+            "specifications": {
+                "teeth": "18T",
+                "chain_size": "1/2\" X 1/8\"",
+                "bearing": "Half Steel Ball",
+                "finish": "Black Teeth / BCP Body"
+            },
+            "image_path": "/parts/single-speed-freewheels/s5.png"
+        },
+        {
+            "item_code": [
+                "S-6"
+            ],
+            "name": "Single Speed Freewheel - 18T All BCP",
+            "description": "18T ALL BCP COLOUR",
+            "specifications": {
+                "teeth": "18T",
+                "finish": "All BCP (Bright Chrome Plated)"
+            },
+            "image_path": "/parts/single-speed-freewheels/s6.png"
+        },
+        {
+            "item_code": [
+                "S-7"
+            ],
+            "name": "Single Speed Freewheel - 20T Golden",
+            "description": "20T GOLDEN FINISH",
+            "specifications": {
+                "teeth": "20T",
+                "finish": "Golden"
+            },
+            "image_path": "/parts/single-speed-freewheels/s7.png"
+        },
+        {
+            "item_code": [
+                "S-8"
+            ],
+            "name": "Single Speed Freewheel - 22T Golden",
+            "description": "22T GOLDEN FINISH",
+            "specifications": {
+                "teeth": "22T",
+                "finish": "Golden"
+            },
+            "image_path": "/parts/single-speed-freewheels/s8.png"
+        },
+        {
+            "item_code": [
+                "S-9"
+            ],
+            "name": "Single Speed Freewheel - 24T Golden",
+            "description": "24T GOLDEN FINISH",
+            "specifications": {
+                "teeth": "24T",
+                "finish": "Golden"
+            },
+            "image_path": "/parts/single-speed-freewheels/s9.png"
+        },
+        {
+            "item_code": [
+                "S-10"
+            ],
+            "name": "Freewheel - Inner View Full Ball",
+            "description": "INNER VIEW OF FULL BALL FREEWHEELS",
+            "specifications": {
+                "bearing": "Full Ball",
+                "view": "Inner Cross-Section"
+            },
+            "image_path": "/parts/single-speed-freewheels/s10.png"
+        },
+        {
+            "item_code": [
+                "S-10 A"
+            ],
+            "name": "Freewheel - Inner View Half Ball",
+            "description": "INNER VIEW OF HALF BALL FREEWHEELS",
+            "specifications": {
+                "bearing": "Half Ball",
+                "view": "Inner Cross-Section"
+            },
+            "image_path": "/parts/single-speed-freewheels/s10a.png"
+        }
+    ],
+    "Multi Speed Freewheels": [
+        {
+            "item_code": [
+                "S-30"
+            ],
+            "name": "Multi Speed Freewheel - 3 Speed",
+            "description": "3 SPEED : 1/2\" X 1/8\" IN BSCY AND FRENCH THREAD, 16-18-20T / 16-19-22T. PITCH & THICKNESS FOLLOWING MULTI SPEED FREEWHEELS 1/2\" X 3/32\"",
+            "specifications": {
+                "speeds": "3",
+                "chain_size": "1/2\" X 1/8\"",
+                "thread": "BSCY and French Thread",
+                "gear_range": "16-18-20T / 16-19-22T",
+                "pitch_thickness": "1/2\" X 3/32\"",
+                "finish_options": "Black, Brown, Golden, ZP, BCP",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s30.png"
+        },
+        {
+            "item_code": [
+                "S-31"
+            ],
+            "name": "Multi Speed Freewheel - 5 Speed Black",
+            "description": "5 SPEED : 14-28T BLACK FREE WHEEL",
+            "specifications": {
+                "speeds": "5",
+                "gear_range": "14-28T",
+                "finish": "Black",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s31.png"
+        },
+        {
+            "item_code": [
+                "S-32"
+            ],
+            "name": "Multi Speed Freewheel - 6 Speed Last Wheel C.P.",
+            "description": "6 SPEED : 14-28T LAST WHEEL C.P.",
+            "specifications": {
+                "speeds": "6",
+                "gear_range": "14-28T",
+                "finish": "Last Sprocket Chrome Plated (C.P.)",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s32.png"
+        },
+        {
+            "item_code": [
+                "S-33"
+            ],
+            "name": "Multi Speed Freewheel - 6 Speed Brown",
+            "description": "6 SPEED : 14-28T BROWN",
+            "specifications": {
+                "speeds": "6",
+                "gear_range": "14-28T",
+                "finish": "Brown (Bronze Chemical)",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s33.png"
+        },
+        {
+            "item_code": [
+                "S-34"
+            ],
+            "name": "Multi Speed Freewheel - 7 Speed Brown with C.P. Last Sprocket",
+            "description": "7 SPEED : 14-28T BROWN WITH LAST SPROCKET C.P.",
+            "specifications": {
+                "speeds": "7",
+                "gear_range": "14-28T",
+                "finish": "Brown with Last Sprocket Chrome Plated",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s34.png"
+        },
+        {
+            "item_code": [
+                "S-35"
+            ],
+            "name": "Multi Speed Freewheel - 6 Speed Black",
+            "description": "6 SPEED : 14-28T BLACK",
+            "specifications": {
+                "speeds": "6",
+                "gear_range": "14-28T",
+                "finish": "Black",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s35.png"
+        },
+        {
+            "item_code": [
+                "S-36"
+            ],
+            "name": "Multi Speed Freewheel - 7 Speed Brown",
+            "description": "7 SPEED : 14-28T BROWN",
+            "specifications": {
+                "speeds": "7",
+                "gear_range": "14-28T",
+                "finish": "Brown (Bronze Chemical)",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s36.png"
+        },
+        {
+            "item_code": [
+                "S-37"
+            ],
+            "name": "Multi Speed Freewheel - 6 Speed Index Black with C.P. Last Sprocket",
+            "description": "6 SPEED INDEX : 14-28T BLACK WITH LAST SPROCKET C.P.",
+            "specifications": {
+                "speeds": "6",
+                "type": "Index",
+                "gear_range": "14-28T",
+                "finish": "Black with Last Sprocket Chrome Plated",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s37.png"
+        },
+        {
+            "item_code": [
+                "S-38"
+            ],
+            "name": "Multi Speed Freewheel - 6 Speed All BCP",
+            "description": "6 SPEED : 14-28 ALL BCP",
+            "specifications": {
+                "speeds": "6",
+                "gear_range": "14-28T",
+                "finish": "All BCP (Bright Chrome Plated)",
+                "bearing": "Full Steel Ball"
+            },
+            "image_path": "/parts/multi-speed-freewheels/s38.png"
+        }
+    ]
+}
