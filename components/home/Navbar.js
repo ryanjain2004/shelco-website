@@ -43,7 +43,7 @@ export const Navbar = () => {
                 >
                     {isMenuOpen ? <CloseIcon /> : <MenuIcon />}
                 </button>
-                <div className="text-lg md:text-xl font-serif text-[#9d0b0b] font-bold tracking-wide uppercase">
+                <div className="text-sm sm:text-base md:text-xl font-serif text-[#9d0b0b] font-bold tracking-tight sm:tracking-wide uppercase whitespace-nowrap">
                     Jagraon Cycle Industries
                 </div>
             </div>
