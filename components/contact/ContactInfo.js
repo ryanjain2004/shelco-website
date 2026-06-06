@@ -87,14 +87,14 @@ export const ContactInfo = () => {
                         <NetworkIcon />
                         <span className="text-xs font-bold tracking-widest uppercase">LinkedIn</span>
                     </a>
-                    <a href="https://www.linkedin.com/company/jcishelco/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-gray-900 hover:text-[#9d0b0b] transition-colors">
+                    {/* <a href="https://www.linkedin.com/company/jcishelco/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-gray-900 hover:text-[#9d0b0b] transition-colors">
                         <GlobeIcon />
                         <span className="text-xs font-bold tracking-widest uppercase">Facebook</span>
-                    </a>
-                    <a href="https://www.linkedin.com/company/jcishelco/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-gray-900 hover:text-[#9d0b0b] transition-colors">
+                    </a> */}
+                    {/* <a href="https://www.linkedin.com/company/jcishelco/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-gray-900 hover:text-[#9d0b0b] transition-colors">
                         <CameraIcon />
                         <span className="text-xs font-bold tracking-widest uppercase">Instagram</span>
-                    </a>
+                    </a> */}
                 </div>
             </div>
 
