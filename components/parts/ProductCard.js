@@ -89,7 +89,7 @@ export const ProductCard = ({ part }) => {
 
                 <div className="mt-auto">
                     <a 
-                        href={`https://wa.me/919914222270?text=${encodeURIComponent(`Hi, I am interested in knowing more details about the part: ${part.name} (${codeLabel}).`)}`}
+                        href={`https://wa.me/61473449254?text=${encodeURIComponent(`Hi, I am interested in knowing more details about the part: ${part.name} (${codeLabel}).`)}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="block w-full border border-gray-800 text-gray-900 py-3 text-[10px] font-bold tracking-widest uppercase hover:bg-[#9d0b0b] hover:text-white hover:border-[#9d0b0b] transition-colors text-center"

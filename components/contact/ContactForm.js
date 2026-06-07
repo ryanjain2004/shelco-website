@@ -16,21 +16,21 @@ export const ContactForm = () => {
         setFormData({ ...formData, [e.target.name]: e.target.value });
     };
 
+    const WHATSAPP_NUMBER = '61473449254'; // +61 473 449 254
+
     const handleSubmit = (e) => {
         e.preventDefault();
 
-        const subject = encodeURIComponent(`Shelco Inquiry: ${formData.inquiryType} - ${formData.company || formData.name}`);
-        const body = encodeURIComponent(
-            `Name: ${formData.name}\n` +
-            `Company: ${formData.company || 'N/A'}\n` +
-            `Email: ${formData.email}\n` +
-            `Inquiry Type: ${formData.inquiryType}\n\n` +
-            `Requirements / Message:\n${formData.details}`
-        );
+        const message =
+            `*Business Inquiry — Jagraon Cycle Industries*\n\n` +
+            `*Name:* ${formData.name}\n` +
+            `*Company:* ${formData.company || 'N/A'}\n` +
+            `*Email:* ${formData.email}\n` +
+            `*Inquiry Type:* ${formData.inquiryType}\n\n` +
+            `*Requirements / Message:*\n${formData.details}`;
 
-        // Replace with your actual sales email
-        const targetEmail = 'info@jagraoncycleindustries.com';
-        window.location.href = `mailto:${targetEmail}?subject=${subject}&body=${body}`;
+        const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
+        window.open(waUrl, '_blank', 'noopener,noreferrer');
     };
 
     return (
